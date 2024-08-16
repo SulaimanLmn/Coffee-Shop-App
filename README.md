@@ -1,4 +1,4 @@
-# flutter_personal
+# Coffe Shop Mobile App
 
 A new Flutter project.
 
